@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.Toastify__toast-container {
+  padding: 0;
+  width: 150px;
+}
+
+.Toastify__toast--default {
+  background-color: #171717;
+  color: white;
+  font-size: 12px;
+}
